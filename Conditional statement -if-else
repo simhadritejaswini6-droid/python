@@ -1,0 +1,5 @@
+youAreSick=True
+if youAreSick:
+    print("Go To The Doctor")
+else:
+    print("Go and play football")
