@@ -1,0 +1,6 @@
+a=10
+name='victor'
+salary=2000.23
+print(a)
+print (name)
+print(salary)
