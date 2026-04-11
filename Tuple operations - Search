@@ -1,0 +1,4 @@
+age=[25,18,21]
+print(age)
+print(21 in age)
+print(age.index(21))
