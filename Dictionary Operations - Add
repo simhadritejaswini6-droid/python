@@ -1,0 +1,7 @@
+age={'a':1,'b':2,'c':3}
+age['d'] = 5
+print(age)
+age['d'] = 4
+print(age)
+del age['d']
+print(age)
