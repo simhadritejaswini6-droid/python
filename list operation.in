@@ -1,0 +1,10 @@
+num=[1,2,3,4,5]
+lang=['python','c','java','php']
+print(num+lang)#concatenates two lists print(num*2)
+#concatenates same list 2 times print(lang[2])#prints 2nd index value
+print(lang [1:4])#prints values from 1st to 3rd index. print('cpp' in lang)#prints False
+print(6 not in num)# prints True
+lang=['python','c','java','php']
+print("The list items are \n")
+for i in lang:
+    print(i)
