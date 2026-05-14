@@ -1,0 +1,6 @@
+Months = {"Jan","Feb","Mar","Apr"}
+print("\n printing the original set....",Months)
+Months.remove("Apr")
+print("\n printing the modified set....",Months)
+Months.remove("Mar")
+print("\n printing the modified set....",Months)
