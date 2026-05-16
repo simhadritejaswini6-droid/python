@@ -1,0 +1,13 @@
+Days = {"Mon", "Tue", "Wed"}
+print(f"printing the original set: {Days}")
+pop_value = Days.pop()
+print(f"printing the modified set: {Days}")
+pop_value = Days.pop()
+print(f"popped value is: {pop_value}")
+print(f"printing the modified set: {Days}")
+Days = set()
+if Days:
+    pop_value = Days.pop()
+    print("popped value is:", pop_value)
+else:
+    print("The set is empty! You can't pop anything"
