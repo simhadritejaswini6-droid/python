@@ -1,0 +1,4 @@
+tup = ('python', 'c', 'java', 'html')
+print(tup)
+del(tup)
+print("Tuple deleted successfully")
