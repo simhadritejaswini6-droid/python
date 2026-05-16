@@ -1,0 +1,6 @@
+Days = {"Mon","Tue","wed"}
+print(f"printing the original set:{Days}")
+Days.clear()
+print(f"printing the cleared set:{Days}")
+del Days
+print("Set deleted successfully")
