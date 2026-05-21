@@ -1,0 +1,7 @@
+def add(a,b):
+    sum=(a+b)
+    return sum
+output=add(a=6,b=9)
+print(output)
+new=add(5,8)
+print(new)
